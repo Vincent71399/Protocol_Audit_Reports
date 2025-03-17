@@ -21,16 +21,12 @@ Each audit report follows a consistent format:
 - **Detailed Findings**: Explanation of each vulnerability, potential impact, and recommended fixes.
 
 ## How to Use
-- Browse the reports in the `audits/` directory.
-- Refer to the **Findings Summary** for a quick overview.
-- Review **Detailed Findings** for in-depth analysis and suggested mitigations.
-- Check the **Best Practices** section to strengthen your own protocol development.
+- Browse the reports in the [https://github.com/Vincent71399/Protocol_Audit_Reports/tree/main/CodeHawks] directory.
+- the original git repos are stated in the report
 
 ## Contact
-For audit inquiries or security consulting, reach out to us at:
-- **Website**: [codehawks.io](https://codehawks.io)
-- **Email**: security@codehawks.io
-- **Twitter/X**: [@codehawks](https://twitter.com/codehawks)
+For audit inquiries or security consulting, reach out to me at:
+- **Email**: vincent71399@gmail.com
 
 ---
 
