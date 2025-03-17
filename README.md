@@ -11,6 +11,9 @@ Our audit process follows a structured and rigorous approach:
 3. **Manually Review**: Line-by-line analysis.
 4. **Reporting & Recommendations**: Documenting findings, risk assessments, and remediation suggestions.
 
+## Report Format
+all reports are in PDF format
+
 ## Report Structure
 Each audit report follows a consistent format:
 - **Introduction**: Overview of the protocol and scope of the audit.
